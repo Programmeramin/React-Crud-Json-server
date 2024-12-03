@@ -1,0 +1,35 @@
+{
+  "team": [
+    {
+      "id": "1",
+      "name": "Amin Islam",
+      "age": 23,
+      "photo": "https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/459277214_1566606140878615_1458528564829315511_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHu6HXsT-N-7ZJVUDmJDK7uJL-yCYXvlvwkv7IJhe-W_D0yZtS6vEcS4SJCq82S3g7X6_j1bUTLqDmzCOpA2fHL&_nc_ohc=GkoCE3mP3i0Q7kNvgGwDq-2&_nc_zt=23&_nc_ht=scontent.fdac31-2.fna&_nc_gid=A20ZbIMwLouPlJYw1hQGlrS&oh=00_AYB1OdmiF3cbtyZf9KIbXdBkzzvaKD4tc3GZXGWfrO4iAA&oe=67522AF2",
+      "skill": "PYTHON ENGINEER",
+      "trash": false
+    },
+    {
+      "id": "66f6",
+      "name": "ABBAS ALI",
+      "age": 43,
+      "photo": "https://i.ytimg.com/vi/iUudvt2ygSI/sddefault.jpg",
+      "skill": "IOS DEVS",
+      "trash": false
+    },
+    {
+      "id": "926e",
+      "name": "EKHTIUR ALI",
+      "skill": "MERN STACK ",
+      "age": 23,
+      "photo": "https://app.sorobindu.com/uploads/studentProfile/1683386854.png",
+      "trash": false
+    },
+    {
+      "id": "98e8",
+      "name": "Fk Rox Bro",
+      "age": "23",
+      "skill": "Prem Kumar Famous",
+      "photo": "https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/322509098_570325404914781_5559103438211524898_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHJuNU1n4dCqxT_NJDyWXIi_3Ejgb9vet3_cSOBv2963f6Up_NETue5q936UENHxIb2YAuk2UKeXVL55Zr72vaB&_nc_ohc=Ll3E8nhlrPIQ7kNvgEDsXjh&_nc_zt=23&_nc_ht=scontent.fdac31-2.fna&_nc_gid=AJV7c7VrIMD-jGT9DiiCFr9&oh=00_AYBhOwXMRPg5Nap3D72PnUECj4tWuIQe56x5MEbCEo709A&oe=6753D448"
+    }
+  ]
+}
